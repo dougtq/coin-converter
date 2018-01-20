@@ -16,4 +16,14 @@ describe('Main CLI', () => {
       done()
     })
   })
+
+  it('should return description of btc-converter', (done) =>{
+    exec(`${btcConverter} -- version`, (err, stdout, stderr) => {
+      if (err) throw err
+
+      expect(stdout.includes(pkg.description)).to.be.true
+
+      done()
+    })
+  })
 })
