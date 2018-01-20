@@ -8,7 +8,7 @@
     "build": "npm run clear && ./node_modules/.bin/babel --out-dir bin src",
     "build:watch": "npm run build -- --watch",
     "lint": "./node_modules/.bin/eslint src/*.js",
-    "prepush": "npm run lint",
+    "lint:fix": "npm run lint -- --fix",
     "test": "./node_modules/.bin/mocha tests/**/*.spec.js --require babel-register --reporter nyan",
     "test:tdd": "npm run test -- --watch",
     "test:coverage": "nyc npm test"
