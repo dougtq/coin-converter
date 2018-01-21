@@ -5,15 +5,15 @@
 ### Installing
 
 ```
-$ npm install -g btc-converter
+$ npm install -g coin-converter
 ```
 
 ### How to use
 
 ```sh
-btc-converter --help
+coin-converter --help
 
-  Usage: btc-converter [options]
+  Usage: coin-converter [options]
 
   Convert Bitcoin to any currency defined
 
