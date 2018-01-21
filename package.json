@@ -1,6 +1,6 @@
 {
   "name": "coin-converter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A CLI to convert Cryptocurrency to any currency provided.",
   "main": "index.js",
   "scripts": {
