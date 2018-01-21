@@ -32,9 +32,9 @@
     "url": "git+https://github.com/Area-16/btc-converter.git"
   },
   "keywords": [
-    "js",
-    "tdd",
-    "library"
+    "cryptocurrency",
+    "converter",
+    "btc"
   ],
   "author": "Douglas Alves <douglas.expalves@gmail.com> (https://dougtq.github.io/)",
   "license": "MIT",
