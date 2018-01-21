@@ -1,7 +1,7 @@
 {
-  "name": "@dougtq/btc-converter",
+  "name": "coin-converter",
   "version": "1.0.1",
-  "description": "A CLI to convert Bitcoin to any currency provided.",
+  "description": "A CLI to convert Cryptocurrency to any currency provided.",
   "main": "index.js",
   "scripts": {
     "clear": "rimraf bin",
