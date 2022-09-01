@@ -50,7 +50,7 @@
     "eslint": "4.0.0",
     "eslint-config-airbnb-base": "11.2.0",
     "eslint-plugin-import": "2.6.1",
-    "husky": "0.11.9",
+    "husky": "8.0.1",
     "mocha": "10.0.0",
     "nock": "9.0.13",
     "nyc": "15.1.0",
